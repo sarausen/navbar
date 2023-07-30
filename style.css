@@ -68,7 +68,7 @@ nav ul {
 .navbar .menu li .arrow,
 .navbar .menu li .more-arrow {
 	width: 25px;
-	color: white;
+	color: black;
 	font-size: small;
 	text-align: center;
 	transition: all 0.3s ease;
