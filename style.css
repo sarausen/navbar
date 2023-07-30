@@ -5,7 +5,7 @@ menu font: Nunito by Vernon Adams, Cyreal, Jacques Le Bailly */
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap");
 
 body {
-	background: linen;
+	background: rgb(253, 251, 250);
 	margin: 0;
 }
 
@@ -17,7 +17,7 @@ nav {
     left: 0; */
 	width: 100%;
 	height: 90px;
-	background: rgb(63, 156, 149);
+	background: rgb(171, 114, 148);
 	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 	/* use a "z-index" if you're using something that can cover the menu */
 }
